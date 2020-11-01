@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\SServidor\SServidor\bin\Debug\netcoreapp3.1\SServidor.exe
+C:\Users\PC\source\repos\SServidor\SServidor\bin\Debug\netcoreapp3.1\SServidor.deps.json
+C:\Users\PC\source\repos\SServidor\SServidor\bin\Debug\netcoreapp3.1\SServidor.runtimeconfig.json
+C:\Users\PC\source\repos\SServidor\SServidor\bin\Debug\netcoreapp3.1\SServidor.runtimeconfig.dev.json
+C:\Users\PC\source\repos\SServidor\SServidor\bin\Debug\netcoreapp3.1\SServidor.dll
+C:\Users\PC\source\repos\SServidor\SServidor\bin\Debug\netcoreapp3.1\SServidor.pdb
+C:\Users\PC\source\repos\SServidor\SServidor\obj\Debug\netcoreapp3.1\SServidor.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\SServidor\SServidor\obj\Debug\netcoreapp3.1\SServidor.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\SServidor\SServidor\obj\Debug\netcoreapp3.1\SServidor.AssemblyInfo.cs
+C:\Users\PC\source\repos\SServidor\SServidor\obj\Debug\netcoreapp3.1\SServidor.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\SServidor\SServidor\obj\Debug\netcoreapp3.1\SServidor.dll
+C:\Users\PC\source\repos\SServidor\SServidor\obj\Debug\netcoreapp3.1\SServidor.pdb
+C:\Users\PC\source\repos\SServidor\SServidor\obj\Debug\netcoreapp3.1\SServidor.genruntimeconfig.cache
