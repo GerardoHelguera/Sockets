@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Scliente\Scliente\obj\Debug\netcoreapp3.1\Scliente.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Scliente\Scliente\obj\Debug\netcoreapp3.1\Scliente.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Scliente\Scliente\obj\Debug\netcoreapp3.1\Scliente.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Scliente\Scliente\obj\Debug\netcoreapp3.1\Scliente.AssemblyInfo.cs
+C:\Users\PC\source\repos\Scliente\Scliente\obj\Debug\netcoreapp3.1\Scliente.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Scliente\Scliente\bin\Debug\netcoreapp3.1\Scliente.exe
+C:\Users\PC\source\repos\Scliente\Scliente\bin\Debug\netcoreapp3.1\Scliente.deps.json
+C:\Users\PC\source\repos\Scliente\Scliente\bin\Debug\netcoreapp3.1\Scliente.runtimeconfig.json
+C:\Users\PC\source\repos\Scliente\Scliente\bin\Debug\netcoreapp3.1\Scliente.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Scliente\Scliente\bin\Debug\netcoreapp3.1\Scliente.dll
+C:\Users\PC\source\repos\Scliente\Scliente\bin\Debug\netcoreapp3.1\Scliente.pdb
+C:\Users\PC\source\repos\Scliente\Scliente\obj\Debug\netcoreapp3.1\Scliente.dll
+C:\Users\PC\source\repos\Scliente\Scliente\obj\Debug\netcoreapp3.1\Scliente.pdb
+C:\Users\PC\source\repos\Scliente\Scliente\obj\Debug\netcoreapp3.1\Scliente.genruntimeconfig.cache
+C:\Users\PC\source\repos\Scliente\Scliente\obj\Debug\netcoreapp3.1\Scliente.Form1.resources
